@@ -19,7 +19,7 @@ const Quizapp = {
     technologies:["React.js","CSS"]
 }
 
-Check out the live version of the app [here](https://respiratoryquizapp.example.com).
+Check out the live version of the app [here](https://priti0317.github.io/Quiz_App/).
 
 ---
 
